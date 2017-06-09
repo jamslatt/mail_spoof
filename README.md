@@ -1,2 +1,2 @@
-# mail_spoof
-Fake email spoof service.
+# Email Spoof
+Dont' abuse this.
